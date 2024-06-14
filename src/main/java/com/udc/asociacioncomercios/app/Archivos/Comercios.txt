@@ -1,0 +1,8 @@
+Ferreteria Yasmirita,6052678452,yasmirita@gmail.com,Pequeño comercio,Escallonvilla,calle 30
+Abastos Zaragocilla,3052472103,abastosz@gmail.com,Supermercado,Zaragocilla,calle 26
+Celuclock,018000930930,pedidos@celuclock.com,Pequeño comercio,Los Angeles,cerca de la Castellana
+Tienda la Principal,6056678029,tprincipal@gmail.com,Supermercado,Olaya,carrera 53
+Drogueria La Botica,018000745263,botica@hotmail.com,Pequeño comercio,Los Alpes,calle 35
+Libreria San Pablo,30125681002,sanpablo@gmail.com,Pequeño comercio,Nuevo Bosque ,carrera 69
+Tienda 11 de Noviembre,6056777555,tienda11@gmail.com,Supermercado,Escallonvilla,calle 11 de noviembre
+.

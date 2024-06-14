@@ -1,0 +1,11 @@
+10001,Arroz Diana 500g,Alimento no pedecedero,47,2500.0
+1002,Aceite Diana 1 Lt,Alimento no pedecedero,43,5000.0
+1005,Azucar Manuelita 1 kg,Alimento no pedecedero,200,2000.0
+1004,Leche Colanta 1 lt,Alimento lacteo,10,3500.0
+2001,Cable micro usb a usb b,Electronicos,20,15000.0
+2002,Audifonos Xiaomi inalambricos,Electronico,40,78000.0
+2003,Memoria usb 32 gb,Electronico,12,30000.0
+3001,Acetaminofen tableta x10,Medicamentos,100,2400.0
+3002,Vitamina C tabletas x10,Medicamentos,70,3000.0
+4001,Clavos para madera 1 pulgada x100 ,Materiales y herramientas,20,10500.0
+.

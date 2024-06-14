@@ -1,0 +1,6 @@
+Xiaomi,10023242,30056345,pedidos@xiaomi.com
+Abarrotes Medellin,235550344343,018000787565,amedellin@gmail.com
+Bayer,8945000354,6054353444,bayer@gmail.com
+Kingston,4566434345,018000777456,kingston@gmail.com
+Editorial San Miguel,23345463535,60527453344,editorialsm@gmail.com
+.
